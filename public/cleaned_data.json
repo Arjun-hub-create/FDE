@@ -1,0 +1,393 @@
+{
+  "properties": [
+    {
+      "property": "Birchwood Stay",
+      "totalRevenue": 157072,
+      "totalBookings": 20,
+      "checkedOut": 9,
+      "confirmed": 4,
+      "cancelled": 2,
+      "noShow": 5,
+      "occupancyRate": 2.3,
+      "avgNightlyRate": 4777,
+      "revEfficiency": 100.0,
+      "channelMixScore": 40.0,
+      "cancellationScore": 65.0,
+      "healthScore": 45.4,
+      "monthlyTrend": [
+        {
+          "month": "Jan",
+          "revenue": 18625.0
+        },
+        {
+          "month": "Feb",
+          "revenue": 11112.0
+        },
+        {
+          "month": "Mar",
+          "revenue": 62449.0
+        },
+        {
+          "month": "Apr",
+          "revenue": 29470.0
+        },
+        {
+          "month": "May",
+          "revenue": 35416.0
+        }
+      ],
+      "channelBreakdown": [
+        {
+          "channel": "Corporate",
+          "bookings": 1,
+          "revenue": 0.0
+        },
+        {
+          "channel": "Direct",
+          "bookings": 7,
+          "revenue": 58526.0
+        },
+        {
+          "channel": "OTA-Booking",
+          "bookings": 2,
+          "revenue": 11112.0
+        },
+        {
+          "channel": "OTA-MMT",
+          "bookings": 4,
+          "revenue": 18625.0
+        },
+        {
+          "channel": "Unknown",
+          "bookings": 3,
+          "revenue": 35092.0
+        },
+        {
+          "channel": "Walk-in",
+          "bookings": 3,
+          "revenue": 33717.0
+        }
+      ]
+    },
+    {
+      "property": "Cedar Court",
+      "totalRevenue": 149054,
+      "totalBookings": 33,
+      "checkedOut": 12,
+      "confirmed": 10,
+      "cancelled": 7,
+      "noShow": 4,
+      "occupancyRate": 2.4,
+      "avgNightlyRate": 4428,
+      "revEfficiency": 100.0,
+      "channelMixScore": 33.3,
+      "cancellationScore": 66.7,
+      "healthScore": 44.3,
+      "monthlyTrend": [
+        {
+          "month": "Jan",
+          "revenue": 7087.0
+        },
+        {
+          "month": "Feb",
+          "revenue": 8034.0
+        },
+        {
+          "month": "Mar",
+          "revenue": 55968.0
+        },
+        {
+          "month": "Apr",
+          "revenue": 30352.0
+        },
+        {
+          "month": "May",
+          "revenue": 47613.0
+        }
+      ],
+      "channelBreakdown": [
+        {
+          "channel": "Corporate",
+          "bookings": 3,
+          "revenue": 0.0
+        },
+        {
+          "channel": "Direct",
+          "bookings": 8,
+          "revenue": 20905.0
+        },
+        {
+          "channel": "OTA-Booking",
+          "bookings": 3,
+          "revenue": 17848.0
+        },
+        {
+          "channel": "OTA-MMT",
+          "bookings": 7,
+          "revenue": 36489.0
+        },
+        {
+          "channel": "Unknown",
+          "bookings": 6,
+          "revenue": 35232.0
+        },
+        {
+          "channel": "Walk-in",
+          "bookings": 6,
+          "revenue": 38580.0
+        }
+      ]
+    },
+    {
+      "property": "Lakeview Residency",
+      "totalRevenue": 231188,
+      "totalBookings": 47,
+      "checkedOut": 17,
+      "confirmed": 13,
+      "cancelled": 8,
+      "noShow": 9,
+      "occupancyRate": 3.2,
+      "avgNightlyRate": 5066,
+      "revEfficiency": 100.0,
+      "channelMixScore": 36.2,
+      "cancellationScore": 63.8,
+      "healthScore": 44.9,
+      "monthlyTrend": [
+        {
+          "month": "Jan",
+          "revenue": 5722.0
+        },
+        {
+          "month": "Feb",
+          "revenue": 50005.0
+        },
+        {
+          "month": "Mar",
+          "revenue": 124909.0
+        },
+        {
+          "month": "Apr",
+          "revenue": 27566.0
+        },
+        {
+          "month": "May",
+          "revenue": 22986.0
+        }
+      ],
+      "channelBreakdown": [
+        {
+          "channel": "Corporate",
+          "bookings": 8,
+          "revenue": 11303.0
+        },
+        {
+          "channel": "Direct",
+          "bookings": 9,
+          "revenue": 39622.0
+        },
+        {
+          "channel": "OTA-Booking",
+          "bookings": 8,
+          "revenue": 40606.0
+        },
+        {
+          "channel": "OTA-MMT",
+          "bookings": 12,
+          "revenue": 66597.0
+        },
+        {
+          "channel": "Unknown",
+          "bookings": 7,
+          "revenue": 26857.0
+        },
+        {
+          "channel": "Walk-in",
+          "bookings": 3,
+          "revenue": 46203.0
+        }
+      ]
+    },
+    {
+      "property": "Marigold Suites",
+      "totalRevenue": 457248,
+      "totalBookings": 76,
+      "checkedOut": 29,
+      "confirmed": 25,
+      "cancelled": 12,
+      "noShow": 10,
+      "occupancyRate": 6.3,
+      "avgNightlyRate": 4898,
+      "revEfficiency": 100.0,
+      "channelMixScore": 42.1,
+      "cancellationScore": 71.1,
+      "healthScore": 48.1,
+      "monthlyTrend": [
+        {
+          "month": "Jan",
+          "revenue": 35816.0
+        },
+        {
+          "month": "Feb",
+          "revenue": 7058.0
+        },
+        {
+          "month": "Mar",
+          "revenue": 292183.0
+        },
+        {
+          "month": "Apr",
+          "revenue": 48623.0
+        },
+        {
+          "month": "May",
+          "revenue": 73568.0
+        }
+      ],
+      "channelBreakdown": [
+        {
+          "channel": "Corporate",
+          "bookings": 11,
+          "revenue": 83228.0
+        },
+        {
+          "channel": "Direct",
+          "bookings": 21,
+          "revenue": 86209.0
+        },
+        {
+          "channel": "OTA-Booking",
+          "bookings": 3,
+          "revenue": 39095.0
+        },
+        {
+          "channel": "OTA-MMT",
+          "bookings": 26,
+          "revenue": 158498.0
+        },
+        {
+          "channel": "Unknown",
+          "bookings": 4,
+          "revenue": 34451.0
+        },
+        {
+          "channel": "Walk-in",
+          "bookings": 11,
+          "revenue": 55767.0
+        }
+      ]
+    },
+    {
+      "property": "Palm Grove Inn",
+      "totalRevenue": 221276,
+      "totalBookings": 50,
+      "checkedOut": 10,
+      "confirmed": 15,
+      "cancelled": 10,
+      "noShow": 15,
+      "occupancyRate": 2.7,
+      "avgNightlyRate": 5585,
+      "revEfficiency": 100.0,
+      "channelMixScore": 46.0,
+      "cancellationScore": 50.0,
+      "healthScore": 45.3,
+      "monthlyTrend": [
+        {
+          "month": "Jan",
+          "revenue": 0.0
+        },
+        {
+          "month": "Feb",
+          "revenue": 40785.0
+        },
+        {
+          "month": "Mar",
+          "revenue": 96341.0
+        },
+        {
+          "month": "Apr",
+          "revenue": 50856.0
+        },
+        {
+          "month": "May",
+          "revenue": 33294.0
+        }
+      ],
+      "channelBreakdown": [
+        {
+          "channel": "Corporate",
+          "bookings": 10,
+          "revenue": 13974.0
+        },
+        {
+          "channel": "Direct",
+          "bookings": 13,
+          "revenue": 16600.0
+        },
+        {
+          "channel": "OTA-Booking",
+          "bookings": 3,
+          "revenue": 24185.0
+        },
+        {
+          "channel": "OTA-MMT",
+          "bookings": 10,
+          "revenue": 33294.0
+        },
+        {
+          "channel": "Unknown",
+          "bookings": 7,
+          "revenue": 50856.0
+        },
+        {
+          "channel": "Walk-in",
+          "bookings": 7,
+          "revenue": 82367.0
+        }
+      ]
+    }
+  ],
+  "channelSummary": [
+    {
+      "channel": "Corporate",
+      "bookings": 33,
+      "revenue": 108505.0,
+      "avgBookingValue": 3288.0
+    },
+    {
+      "channel": "Direct",
+      "bookings": 58,
+      "revenue": 221862.0,
+      "avgBookingValue": 3825.0
+    },
+    {
+      "channel": "OTA-Booking",
+      "bookings": 19,
+      "revenue": 132846.0,
+      "avgBookingValue": 6992.0
+    },
+    {
+      "channel": "OTA-MMT",
+      "bookings": 59,
+      "revenue": 313503.0,
+      "avgBookingValue": 5314.0
+    },
+    {
+      "channel": "Unknown",
+      "bookings": 27,
+      "revenue": 182488.0,
+      "avgBookingValue": 6759.0
+    },
+    {
+      "channel": "Walk-in",
+      "bookings": 30,
+      "revenue": 256634.0,
+      "avgBookingValue": 8554.0
+    }
+  ],
+  "dataQuality": {
+    "rawRows": 238,
+    "cleanRows": 226,
+    "droppedRows": 12,
+    "assumedRoomsPerProperty": 10
+  }
+}
